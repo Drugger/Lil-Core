@@ -1,1 +1,1 @@
-Welcome to Lil-Core, which is based on ArcEmu (arcemu.org). This is a free core for World of Warcraft. This core supports World of Warcraft: The Lich King and below.
+nothing to see here
